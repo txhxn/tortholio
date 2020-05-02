@@ -1,0 +1,18 @@
+body{
+  background:rgb(237, 34, 93);
+  overflow:hidden;
+}
+#myContainer{
+  margin: auto;
+  text-align: center;
+
+}
+a{
+  position: absolute;
+  text-font:Helvetica;
+  text-decoration: none;
+  margin-top:469px;
+  margin-left:430px;
+  font-size: 28px;
+  color: rgb(237, 34, 93);
+}
